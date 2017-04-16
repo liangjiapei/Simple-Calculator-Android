@@ -6,3 +6,4 @@
 - Handle divided by zero exception
 - Implemented keep operate last operation by tapping "="
 - Implemented "Clear" button to restart calculation
+- Using WeightSum and layout_weight to build equally distributed buttons
